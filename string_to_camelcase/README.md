@@ -10,7 +10,8 @@
 		"the-stealth-warrior" gets converted to "theStealthWarrior"
 		"The_Stealth_Warrior" gets converted to "TheStealthWarrior"
 &nbsp; 	
-## Usage
+
+### Usage
 &nbsp; 
 
 		go run string_to_camelcase.go <test_string>
