@@ -4,9 +4,9 @@
 
 #### Examples:
 
-		Solution("abc") //should return ["ab", "c_"]
-		Solution("abcdef") //should return ["ab", "cd", "ef"]
+	Solution("abc") //should return ["ab", "c_"]
+	Solution("abcdef") //should return ["ab", "cd", "ef"]
 
 ### Usage
 
-		go run split_strings.go <test_string>
+	go run split_strings.go <test_string>

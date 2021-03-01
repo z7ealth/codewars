@@ -8,10 +8,10 @@
 
 #### Example:
 
-        a1 = ["hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz"]
-        a2 = ["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"]
-        mxdiflg(a1, a2) --> 13
+	a1 = ["hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz"]
+	a2 = ["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"]
+	mxdiflg(a1, a2) --> 13
 
 ### Usage
 
-        go run max_length_diff.go
+	go run max_length_diff.go

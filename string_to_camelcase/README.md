@@ -4,10 +4,9 @@
 
 #### Examples:
 
-		"the-stealth-warrior" gets converted to "theStealthWarrior"
-		"The_Stealth_Warrior" gets converted to "TheStealthWarrior"
+	"the-stealth-warrior" gets converted to "theStealthWarrior"
+	"The_Stealth_Warrior" gets converted to "TheStealthWarrior"
 
 ### Usage
 
-
-		go run string_to_camelcase.go <test_string>
+	go run string_to_camelcase.go <test_string>
