@@ -10,4 +10,4 @@
 ### Usage
 
 
-		go run strings_end_with.go
+	go run strings_end_with.go
